@@ -1,0 +1,9 @@
+Plan de déroulement pour mon projet de restaurant Yummy Nouilles
+- Découpage de la maquette
+- branche main -> Initialisation du projet (création de accueil.html, menu.html, contact.html et style.css)
+- branche accueil -> code de accueil.html et style-accueil.css
+- branche menu.html -> code menu.html et style-menu.html
+- branche contact.html -> code contact.html et style-contact.html
+
+Noter qu'après chaque branche on va fusionner avec la branche principale.
+Noter aussi pour tout se qui est similaire aux trois parties sera stylisé dans style.css
