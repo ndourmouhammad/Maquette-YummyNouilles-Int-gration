@@ -29,7 +29,7 @@ a {
 }
 .navbar {
     margin: 50px;
-    padding-right: 100px;
+    padding-right: 80px;
 }
 .navbar a:hover, .navbar a.active {
     border-bottom: #D2483D solid 5px;;
