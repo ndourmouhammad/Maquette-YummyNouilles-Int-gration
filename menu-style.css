@@ -1,0 +1,15 @@
+.localisation {
+    margin-bottom: 50px;
+}
+.localisation h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 50px;
+    font-size: 30px;
+}
+.localisation p {
+    text-align: center;
+}
+.bolder {
+    font-weight: bold;
+}
