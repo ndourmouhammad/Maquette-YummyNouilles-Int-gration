@@ -1,0 +1,20 @@
+.menu h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px;
+}
+.menus {
+    text-align: center;
+}
+.contactez {
+    text-align: center;
+    margin: 20px;
+}
+.bordure {
+    text-transform: uppercase;
+    border-bottom: #D2483D solid 5px;
+}
+.entrer {
+    text-align: center;
+    font-weight: bold;
+}
